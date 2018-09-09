@@ -1,0 +1,193 @@
+
+section#main {
+	padding-top: 20px;
+	height: 900px;
+	background: url(../img/mainbg1.jpg);
+}
+.phone h3 {
+	font-family: Ubuntu;
+	color: #fff;
+	font-weight: 700;
+}
+.phone p{
+	font-family: Ubuntu;
+	color: #fff;
+	font-weight: 500;
+}
+img#osnov{
+	width: 210px;
+}
+.social img {
+	width: 35px;
+}
+.social {
+	padding-left: 13px;
+	padding-top: 5px;
+}
+.header h1 {
+	font-family: Ubuntu;
+	font-weight: 700;
+	color: #fff;
+	text-transform: uppercase;
+	margin-top: 7%;
+}
+.header-form h2 {
+	font-family: Ubuntu;
+	font-weight: 400;
+	color: #a60436;
+}
+.main-form {
+	background: rgba(255, 255, 255, 0.47);
+	padding-bottom: 30px;
+	border-radius: 5px;
+	margin-top: 5%;
+}
+.main-form input{
+	width: 80%;
+	padding: 10px;
+	border-radius: 5px;
+	border: none;
+}
+.main-btn {
+	background-color: #a60436;
+	border: none;
+	border-bottom: 3px solid #4d0219;
+	border-radius: 5px;
+	padding: 11px 40px;
+	color: #fff;
+	font-family: Ubuntu;
+	font-weight: 500;
+}
+.main-btn:hover {
+	background-color:#d20444;
+	border-bottom: 3px solid #8a032d;
+	
+}
+.main-btn:active {
+	border-bottom: 1px solid #8a032d;
+	margin-top: 2px;
+
+}
+/*--------------Яйца-------------*/
+section#eggs {
+	padding-top: 3%;
+} 
+.header-eggs h2 {
+	color: #363636;
+	font-size: 28px;
+	font-weight: 800;
+}
+.icons img {
+	width: 100px;
+	padding-bottom: 15px;
+
+}
+.icons {
+	margin-top: 3%;
+}
+.icons h4 {
+	font-family: Ubuntu;
+	font-weight: 500;
+	color: #a60436;
+}
+
+/*----------------Цены----------------*/
+section#price {
+	padding-bottom: 3%;
+	
+}
+
+.header {
+	margin-bottom: 3%;
+	font-family: Ubuntu;
+}
+
+.header h2 {
+	font-weight: 900;
+}
+
+.row button {
+	background-color: #a60436;
+	border: none;
+	border-bottom: 3px solid #4d0219;
+	border-radius: 5px;
+	padding: 11px 40px;
+	color: #fff;
+	font-family: Ubuntu;
+	font-weight: 500;
+}
+
+.row button:hover {
+	background-color:#d20444;
+	border-bottom: 3px solid #8a032d;
+}
+
+.row button:active {
+	border-bottom: 1px solid #8a032d;
+	margin-top: 2px;
+}
+
+.card {
+	border: 5px solid #a60436;
+	border-radius: 7px;
+	padding-bottom: 20px;
+}
+
+.card h3 {
+	font-weight: 700;
+}
+
+.card ul li {
+	 font-weight: 600;
+}
+
+.card h4 {
+	font-weight: 700;
+}
+
+#var3 h4 {
+	padding-bottom: 18px;
+
+}
+
+#var4 h4 {
+	padding-bottom: 20px;
+
+}
+/*----------------Карусель----------------*/
+
+.item {
+	text-align: center;
+}
+.carousel-control.right {
+	background-image: none; 
+}
+.carousel-control.left {
+	background-image: none; 
+}
+.carousel {
+	margin-top: 20px;
+	margin-bottom: 50px;
+}
+.carousel-control {
+	color: #333333;
+}
+.carousel-control:hover {
+	color: #bab6b6;
+}
+.avatar {
+	width: 20%;
+	display: block;
+	margin: 0 auto;
+}
+.carousel-indicators {
+	bottom: -40px;
+}
+.carousel-indicators li {
+	border: 0.5px solid #000;
+	background-color: #fff;
+}
+
+.carousel-indicators .active {
+    background-color: #cdc8c8
+}

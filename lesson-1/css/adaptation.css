@@ -1,0 +1,56 @@
+/*----------------Адаптив----------------*/
+
+@media(min-width: 0px) and (max-width: 320px) {
+	.logo {
+		text-align: center;
+	}
+	img#osnov {
+		width: 70px;
+	}
+	.social img {
+		width: 20px;
+	}
+	.social {
+		padding-left: 0;
+	}
+	.logo-revizorro img {
+		width: 110px;
+	}
+	.phone {
+		text-align: center;
+	}
+	h1 {
+		font-size:20px;
+	}
+	.header-form h2 {
+		font-size: 16px;
+	}
+	.main-form input {
+		margin-top: 5px;
+	}
+	.main-form button {
+		margin-top: 9px;
+	}
+	.main-form button:hover {
+		margin-top: 11px;
+	}
+	.main-form {
+		margin-left: 4px;
+		margin-right: 4px
+	}
+	section#main {
+	height: 610px;
+}
+.header-eggs h2 {
+	font-size: 18px;
+}
+.header h2 {
+	font-size: 20px;
+}
+.card {
+	margin-top: 5px;
+}
+
+
+
+}
