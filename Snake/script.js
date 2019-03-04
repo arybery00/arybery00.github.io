@@ -123,7 +123,7 @@ function move() {
 
   if (snakeBody[0].classList.contains('snakeBody')) {
   	setTimeout(() => {
-  		alert('GameOver');
+  		alert('Хабиж РАК');
   	}, 200);
   	
   	clearInterval(interval);
